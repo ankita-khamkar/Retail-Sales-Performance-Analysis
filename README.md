@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Ankita Khamkar Banner" width="100%">
+</p>
+
 # 📊 Retail Sales Performance Analysis Using Python
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
